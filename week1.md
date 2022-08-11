@@ -1,6 +1,6 @@
 # Software Engineering Laboratory - UE20CS303
 
-> Ayush SIngh - PES2UG20CS081
+> Ayush Singh - PES2UG20CS081
 > 
 > Ayushmaan Kaushik - PES2UG20CS082
 > 
