@@ -52,6 +52,6 @@ Marketers can use this data as a way to gain insight into customer behavior. Thi
 ---
 
 ### Conclusion
-This market research tool provides a simple yet effective solution for looking up relevant data. This helps our users make informed decisions, and inspires new ideas for content creation or create visualizations for a presentation. 
+This market research tool provides a simple yet effective solution for looking up relevant data on a wide variety of topics, trends and documents. This helps our users make informed decisions for their business or personal needs. It also inspires new ideas and visualizations for content creation.
 
 --- 
