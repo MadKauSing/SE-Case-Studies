@@ -22,7 +22,7 @@ To create a data exploration tool that analyses keyword traffic over time, vario
 
 Market Researcher is a free data exploration tool that lets marketers better understand what audiences are interested in and curious about, in real-time. 
 
-This works with a keyword research tool in its heart, which shows the keyword traffic in the form of searches on search engines such as Google. 
+This works with a keyword research tool at its heart, which shows the keyword traffic in the form of searches on search engines such as Google. 
 
 Marketers can use this data as a way to gain insight into customer behavior. This allows you to see how interest in a topic has changed, what terms are related to the topic, and even when interest in a topic tends to peak or diminish annually.
 
@@ -47,10 +47,11 @@ Marketers can use this data as a way to gain insight into customer behavior. Thi
 
 4. Use Google Trends Tool in parallel as a supplementary result.
 
-5. Use a voting classifer to give better results.
+5. Use a voting classifier to give better results.
 
 ---
 
 ### Conclusion
+This market research tool provides a simple yet effective solution for looking up relevant data. This helps our users make informed decisions, and inspires new ideas for content creation or create visualizations for a presentation. 
 
 --- 
