@@ -6,18 +6,21 @@
 > 
 > Bhavini Madhuranath - PES2UG20CS088
 
-## Week 1
+---
 
-## Market Research Tool
+## Week 1-Market Research Tool
+---
 
 ### Abstract
 
 
 
----
 
+---
 ### Aim
+
 Market Researcher is a free data exploration tool that lets marketers better understand what audiences are interested in and curious about, in real-time. Marketers can use this data as a way to gain insight into customer behavior. This allows you to see how interest in a topic has changed, what terms are related to the topic, and even when interest in a topic tends to peak or diminish annually.
+
 ---
 
 ### Tools
