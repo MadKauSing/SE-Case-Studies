@@ -75,3 +75,27 @@ The project could become an overnight success and may even set an industry stand
 ### Problem statement 2
 
 ---
+#### Flowchart
+
+![](./Flowchart%20diagram/Flowchart.png)
+
+#### Tech Stack used 
+##### ELB 
+Used as a HTTP load balancer. It automatically distributes load traffic across multiple targets and virtual appliances.
+
+##### Netty Server
+A client server framework used for backend development and endpoints that connect to microservices.
+
+##### Hystrix
+Used for latency and fault tolerance between microservices. Improves overall resilience of the system.
+
+##### Cricket Live Score APIs
+Used to retrieve live score data via web scraping tools such as Scarpy.
+
+##### Score Predictor Engine
+A model trained for the score prediction using the data stored in a kafka database.
+
+##### API monitoring
+
+- OPENTSDB: Scalable Time Series Database Store and serve massive amounts of time series data without losing granularity.
+- Graphana: Gives readymade dashboards for server performance metrics.
